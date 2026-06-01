@@ -42,10 +42,9 @@ Runs against a real Supabase database with pre-loaded data.
 
 | Role | Email | Password | Access |
 |------|-------|----------|--------|
-| Admin (Soda) | `demo-soda@restocloud.cr` | `demo1234` | Full panel + analytics |
-| Admin (Fino) | `demo-fino@restocloud.cr` | `demo1234` | Full panel + fine dining flow |
-| Waiter | `mesero@restocloud.cr` | `demo1234` | Orders, tables, availability |
-| Kitchen | `cocina@restocloud.cr` | `demo1234` | Real-time kitchen view |
+| Admin  | `demo@demo.com` | `Demo1234!` | Full panel + analytics |
+| Waiter | `MeseroJuan@demo.com` | `Demo1234!` | Orders, tables, availability |
+| Kitchen | `cocina@demo.com` | `Demo1234!` | Real-time kitchen view |
 
 ### Customer Flow (no login)
 
