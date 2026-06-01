@@ -11,7 +11,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶%20Open-22c55e?style=for-the-badge)](https://restocloud-cr.vercel.app/login)
 [![Stack](https://img.shields.io/badge/Stack-Vue%203%20%2B%20Supabase-4f46e5?style=for-the-badge)]()
 [![DB](https://img.shields.io/badge/DB-PostgreSQL%2017%20%2B%20RLS-336791?style=for-the-badge)]()
-[![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel)]()
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel)](https://restocloud-cr.vercel.app/login)
 
 ---
 
